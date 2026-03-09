@@ -41,7 +41,10 @@ WAN --> |Porta WAN| Router
 
 Router --> |LAN 1| PC1
 Router --> |LAN 2| PC2
-Router --> |LAN 3| PC3 
+Router --> |LAN 3| PC3
+Router --> |LAN 4| Printer
+
 ```
 
-
+Imagem da Topologia utilizada no Laboratório: 
+![](TOPOLOGIA.png)
